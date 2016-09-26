@@ -19,7 +19,7 @@ CARDの効果は無差別的ですので、自身が巻き込まれないよう�
 難易度調節をする時間が無かったために、とてつもない難易度を誇る上に、組織の戦力は無限です。ハイスコアを目指して頑張ってください。
 
 ## Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a7jNmR8XhDI" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/a7jNmR8XhDI
 
 ## LICENSE
 This software is released under the BSD 2-Clause License, see LICENSE.txt.
